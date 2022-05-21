@@ -1,0 +1,11 @@
+.link{
+  
+    display: flex;
+    gap: 20px;
+    background-color: black;
+    
+}
+.link>p{
+    color: white;
+    background-color: black;
+}
